@@ -1,0 +1,14 @@
+{
+    "defaultSeverity": "error",
+    "jsRules": {},
+    "rules": {
+      "ter-indent": [true, "tab", {
+        "FunctionDeclaration": {
+          "body": 1
+        }
+      }]
+    },
+    "rulesDirectory": [
+        "node_modules/tslint-eslint-rules/dist/rules"
+    ]
+}
